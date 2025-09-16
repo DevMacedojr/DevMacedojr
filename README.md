@@ -8,6 +8,9 @@
 
 Estudante de Engenharia de Software com conhecimentos em C#, Python, MySQL, HTML, CSS e Git. Possuo experiência em suporte técnico "[Linkedin](www.linkedin.com/in/ljml2006)". Sou proativo, com forte capacidade de aprendizado e pronto para contribuir desde o primeiro dia.
 
+Software Engineering student with knowledge of C#, Python, MySQL, HTML, CSS, and Git. I have experience in technical support "[Linkedin](www.linkedin.com/in/ljml2006)." I'm proactive, with a strong learning ability, and ready to contribute from day one.
+
+
 
 
 ---
