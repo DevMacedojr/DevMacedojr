@@ -1,6 +1,6 @@
 #  👨🏽‍💻 Leonardo Macedo
  
-### 🎓 Estudande De Engenharia de Software. 
+### 🎓 Estudante De Engenharia de Software. 
 
 
 **`Desenvolvedor FullStack Em Formação`**
