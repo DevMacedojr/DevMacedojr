@@ -14,8 +14,7 @@ Estudante de Engenharia de Software com conhecimentos em C#, Python, MySQL, HTML
 
 ### 🤖 Linguagens e Tecnologias 
 
-#### Linguagens: C#, Python, JavaScript (Básico) Desenvolvimento Web: HTML5, CSS3 (Básico) Bancos de Dados: MySQL, SQL Server Ferramentas: Git, GitHub, VS Code Conceitos: Lógica de Programação, POO, APIs REST Hardware: Montagem e Manutenção de Computadores. (Pleno)
-
+#### Linguagens: 
 
 <br/>
 
