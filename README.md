@@ -23,13 +23,13 @@ Estudante de Engenharia de Software com conhecimentos em C#, Python, MySQL, HTML
 ### 📞 Contato e Informações 
 
  <div style="display: flex; gap: 10px;">
-    <a href="https://instagram.com/omacedojose2k25">
+    <a href="https://instagram.com/omacedojose2k25?">
         <img src="https://img.shields.io/badge/Instagram-FFA500?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
 </a>
-    <a href="mailto:youloiolatube@gmail.com">
+    <a href="mailto:youloiolatube@gmail.com?">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
 </a>
-     <a href="https://www.linkedin.com/in/ljml2006">
+     <a href="https://www.linkedin.com/in/ljml200?6">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
  </a> 
