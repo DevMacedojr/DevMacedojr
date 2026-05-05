@@ -6,7 +6,7 @@
 **`Desenvolvedor FullStack Em Formação`**
 **`FullStack Developer In Training`**
 
-Estudante de Engenharia de Software com conhecimentos em C#, Python, MySQL, HTML, CSS e Git. Possuo experiência em suporte técnico "[Linkedin](www.linkedin.com/in/ljml2006)". Sou proativo, com forte capacidade de aprendizado e pronto para contribuir desde o primeiro dia.
+Estudante de Engenharia de Software com conhecimentos em C#, Python, MySQL, HTML, CSS e Git. Possuo experiência em suporte técnico Sou proativo, com forte capacidade de aprendizado e pronto para contribuir desde o primeiro dia.
 
 
 
