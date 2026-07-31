@@ -12,35 +12,27 @@
 
 ## 🧠 Sobre mim
 
-```typescript
-const leonardo = {
-  formacao: "Engenharia de Software",
-  funcao: "Desenvolvedor Full Stack",
-  foco: [
-    "Sistemas empresariais",
-    "APIs e integrações",
-    "Inteligência Artificial",
-    "Automação de processos",
-    "Infraestrutura e bancos de dados"
-  ],
-  tecnologias: [
-    "TypeScript",
-    "JavaScript",
-    "PHP",
-    "Python",
-    "C#",
-    "SQL"
-  ],
-  inteligenciaArtificial: [
-    "Claude",
-    "OpenAI",
-    "Engenharia de prompts",
-    "Agentes de IA",
-    "Automação com LLMs"
-  ],
-  objetivo: "Criar soluções escaláveis, inteligentes e úteis para empresas"
-};
-```
+Sou estudante de **Engenharia de Software** e desenvolvedor **Full Stack em formação**, com experiência prática em sistemas empresariais, integrações, bancos de dados, infraestrutura e Inteligência Artificial.
+
+Atuo na criação, manutenção e evolução de aplicações, trabalhando desde o banco de dados e backend até a interface utilizada pelo cliente.
+
+- 💻 Desenvolvimento de sistemas web e empresariais;
+- 🔗 Criação e integração de APIs REST;
+- 🏢 Integração com ERPs e sistemas legados;
+- 🗄️ Experiência com PostgreSQL, MySQL, MariaDB e Supabase;
+- 🤖 Desenvolvimento assistido por Claude, OpenAI e outras LLMs;
+- 🧠 Engenharia de prompts e criação de agentes de IA;
+- ⚙️ Automação de processos empresariais;
+- 🐧 Infraestrutura, servidores Linux, Nginx e deploy de aplicações;
+- 🚀 Foco em soluções modernas, escaláveis e funcionais.
+
+<div align="center">
+
+![Full Stack](https://img.shields.io/badge/Full%20Stack-Em%20Evolução-6C63FF?style=for-the-badge)
+![Engenharia de Software](https://img.shields.io/badge/Engenharia%20de%20Software-Estudante-007ACC?style=for-the-badge)
+![Inteligência Artificial](https://img.shields.io/badge/Inteligência%20Artificial-IA%20Aplicada-8A2BE2?style=for-the-badge)
+
+</div>
 
 Sou estudante de **Engenharia de Software** e atuo no desenvolvimento e manutenção de sistemas, APIs, bancos de dados e integrações.
 
