@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-label="Leonardo Macedo — Desenvolvedor Full Stack">
+  <defs>
+    <linearGradient id="accentBarL" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#6C63FF"/>
+      <stop offset="100%" stop-color="#0EA5C6"/>
+    </linearGradient>
+
+    <linearGradient id="nameShineL" x1="-0.6" y1="0" x2="0.4" y2="0">
+      <stop offset="0%" stop-color="#0B0E14"/>
+      <stop offset="42%" stop-color="#0B0E14"/>
+      <stop offset="50%" stop-color="#6C63FF"/>
+      <stop offset="58%" stop-color="#0B0E14"/>
+      <stop offset="100%" stop-color="#0B0E14"/>
+      <animate attributeName="x1" values="-0.6;1.2;-0.6" dur="9s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="0.4;2.2;0.4" dur="9s" repeatCount="indefinite"/>
+    </linearGradient>
+
+    <pattern id="dotGridL" width="26" height="26" patternUnits="userSpaceOnUse">
+      <circle cx="1.5" cy="1.5" r="1.4" fill="#6C63FF" opacity="0.16"/>
+    </pattern>
+
+    <radialGradient id="ambientL" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#6C63FF" stop-opacity="0.16"/>
+      <stop offset="60%" stop-color="#6C63FF" stop-opacity="0.04"/>
+      <stop offset="100%" stop-color="#6C63FF" stop-opacity="0"/>
+    </radialGradient>
+
+    <clipPath id="frameL">
+      <rect width="1200" height="320" rx="20"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#frameL)">
+    <rect width="1200" height="320" fill="#FFFFFF"/>
+    <rect width="1200" height="320" fill="url(#dotGridL)"/>
+    <circle cx="1010" cy="150" r="250" fill="url(#ambientL)"/>
+
+    <g stroke="#6C63FF" stroke-width="1" opacity="0.40">
+      <line x1="905" y1="92" x2="1010" y2="150"/>
+      <line x1="1010" y1="150" x2="1128" y2="104"/>
+      <line x1="1010" y1="150" x2="948" y2="234"/>
+      <line x1="1010" y1="150" x2="1108" y2="228"/>
+      <line x1="948" y1="234" x2="1108" y2="228"/>
+      <line x1="905" y1="92" x2="948" y2="234"/>
+      <line x1="1128" y1="104" x2="1108" y2="228"/>
+    </g>
+
+    <g fill="#FFFFFF" stroke="#6C63FF" stroke-width="1.6">
+      <circle cx="905" cy="92" r="6"/>
+      <circle cx="1128" cy="104" r="6"/>
+      <circle cx="948" cy="234" r="6"/>
+      <circle cx="1108" cy="228" r="6"/>
+    </g>
+
+    <circle cx="1010" cy="150" r="11" fill="#6C63FF"/>
+    <circle cx="1010" cy="150" r="11" fill="none" stroke="#0EA5C6" stroke-width="1.4" opacity="0.9">
+      <animate attributeName="r" values="11;30;11" dur="4.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.9;0;0.9" dur="4.5s" repeatCount="indefinite"/>
+    </circle>
+
+    <rect x="64" y="98" width="4" height="118" rx="2" fill="url(#accentBarL)"/>
+
+    <text x="92" y="118" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="13" letter-spacing="3.5" fill="#8A93A3">ENGENHARIA DE SOFTWARE</text>
+
+    <text x="90" y="176" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="56" font-weight="700" letter-spacing="-0.5" fill="url(#nameShineL)">Leonardo Macedo</text>
+
+    <text x="92" y="210" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="15" font-weight="600" letter-spacing="5.5" fill="#57606A">DESENVOLVEDOR FULL STACK</text>
+
+    <text x="92" y="248" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="13.5" letter-spacing="0.6" fill="#5A52E0">APIs · ERPs · Integrações · Linux · IA aplicada</text>
+
+    <text x="1136" y="56" text-anchor="end" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="13" letter-spacing="1" fill="#98A1AE">@DevMacedojr</text>
+
+    <g>
+      <circle cx="954" cy="279" r="4.5" fill="#0EA5C6">
+        <animate attributeName="opacity" values="1;0.25;1" dur="2.6s" repeatCount="indefinite"/>
+      </circle>
+      <text x="970" y="284" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="12.5" letter-spacing="0.8" fill="#6B7482">disponível para novos desafios</text>
+    </g>
+
+    <rect x="0.5" y="0.5" width="1199" height="319" rx="20" fill="none" stroke="#E3E7ED" stroke-width="1"/>
+  </g>
+</svg>
