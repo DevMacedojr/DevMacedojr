@@ -1,152 +1,165 @@
 <div align="center">
 
-# Leonardo Macedo
-
-**Desenvolvedor Full Stack** · Sistemas empresariais, APIs e automação com IA
-Estudante de Engenharia de Software
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=6C63FF&center=true&vCenter=true&width=640&lines=APIs%2C+ERPs+e+sistemas+empresariais;TypeScript%2C+Node.js%2C+React+e+PostgreSQL;Agentes+e+automa%C3%A7%C3%B5es+com+Claude+e+OpenAI;Transformando+problemas+em+solu%C3%A7%C3%B5es)](https://github.com/DevMacedojr)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg">
+  <img src="./assets/header-dark.svg" alt="Leonardo Macedo — Desenvolvedor Full Stack" width="100%">
+</picture>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ljml200)
-[![E-mail](https://img.shields.io/badge/E--mail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:youloiolatube@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-FF0069?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/omacedojose2k25)
-![Seguidores](https://img.shields.io/github/followers/DevMacedojr?label=seguidores&style=flat-square&logo=github&color=6C63FF)
-![Visualizações](https://komarev.com/ghpvc/?username=DevMacedojr&label=visualizações&color=6c63ff&style=flat-square)
+<a href="#sobre"><b>Sobre</b></a> &nbsp;·&nbsp;
+<a href="#competências"><b>Competências</b></a> &nbsp;·&nbsp;
+<a href="#stack"><b>Stack</b></a> &nbsp;·&nbsp;
+<a href="#inteligência-artificial-aplicada"><b>IA aplicada</b></a> &nbsp;·&nbsp;
+<a href="#contato"><b>Contato</b></a>
 
 </div>
 
----
-
-## 🧠 Sobre mim
-
-Estudante de **Engenharia de Software** e desenvolvedor **Full Stack**, com experiência prática na criação, manutenção e evolução de sistemas empresariais.
-
-Meu dia a dia envolve **APIs REST, integrações entre plataformas, modelagem e administração de bancos de dados, sistemas legados, ERPs e deploy em servidores Linux** — e, cada vez mais, o uso de LLMs como parte do fluxo de engenharia: análise e refatoração de código, criação de agentes especializados, engenharia de prompts, documentação técnica e automação de processos.
-
-O que me interessa não é a stack em si, mas o problema por trás dela: entender a operação, encontrar o gargalo e entregar algo que funcione em produção — de forma escalável, segura e sustentável.
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Full%20Stack-Em%20evolução-6C63FF?style=for-the-badge" alt="Full Stack" />
-<img src="https://img.shields.io/badge/Engenharia%20de%20Software-Estudante-007ACC?style=for-the-badge" alt="Engenharia de Software" />
-<img src="https://img.shields.io/badge/Inteligência%20Artificial-IA%20aplicada-8A2BE2?style=for-the-badge" alt="Inteligência Artificial" />
-
-</div>
-
----
-
-## 🚀 Onde eu atuo
-
-| | | |
-| :---: | :--- | :--- |
-| 💻 | **Desenvolvimento Full Stack** | Criação e evolução de aplicações web completas. |
-| 🔗 | **APIs e integrações** | Integração entre sistemas, plataformas e serviços externos. |
-| 🏢 | **Sistemas empresariais** | ERPs, dashboards, painéis e ferramentas administrativas. |
-| 🤖 | **Inteligência Artificial** | Claude, OpenAI, agentes especializados e automações com LLMs. |
-| 🗄️ | **Bancos de dados** | Modelagem e operação com PostgreSQL, MySQL, MariaDB, Supabase e Redis. |
-| 🐧 | **Infraestrutura** | Servidores Linux, Nginx, AWS, deploy e monitoramento. |
-| 🔧 | **Sistemas legados** | Manutenção, diagnóstico, modernização e integração. |
-| 🛡️ | **Segurança de acesso** | Autenticação, permissões, JWT e controle de acesso. |
-| ⚙️ | **Automação** | Automação de tarefas, processos internos e operações. |
-
----
-
-## 🛠️ Stack
-
-<div align="center">
-
-**Linguagens**
-
-<img src="https://skillicons.dev/icons?i=ts,js,php,python,cs,html,css&theme=dark" alt="TypeScript, JavaScript, PHP, Python, C#, HTML, CSS" />
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind&theme=dark" alt="React, Next.js, Vite, Tailwind" />
-
-**Backend e APIs**
-
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,laravel,prisma&theme=dark" alt="Node.js, NestJS, Express, Laravel, Prisma" />
-
-**Bancos de dados**
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,redis&theme=dark" alt="PostgreSQL, MySQL, Supabase, Redis" />
 <br/>
-<img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" alt="MariaDB" />
-<img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
 
-**Infraestrutura e ferramentas**
+## Sobre
 
-<img src="https://skillicons.dev/icons?i=linux,arch,ubuntu,docker,aws,nginx,git,github,vscode,postman&theme=dark" alt="Linux, Arch, Ubuntu, Docker, AWS, Nginx, Git, GitHub, VS Code, Postman" />
+Desenvolvedor Full Stack e estudante de Engenharia de Software, com atuação prática na criação, manutenção e evolução de **sistemas empresariais em produção**.
 
-</div>
+Meu trabalho se concentra na camada onde os sistemas realmente se encontram: APIs REST, integrações entre plataformas, modelagem de dados, sistemas legados e infraestrutura Linux. Uso modelos de linguagem como parte do processo de engenharia — não como atalho, mas como ferramenta de leitura de código, documentação e automação.
 
----
+O que me interessa não é a stack, é o problema por trás dela: entender a operação, localizar o gargalo e entregar algo que sustente carga real.
 
-## 🤖 IA aplicada — como eu uso na prática
+<br/>
 
-Não como gerador de código pronto, mas como parte do processo de engenharia:
+## Competências
 
-| | |
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**Aplicação**
+
+Desenvolvimento Full Stack
+APIs REST e integrações
+Dashboards e painéis
+Autenticação, JWT e permissões
+
+</td>
+<td width="33%" valign="top">
+
+**Dados e infraestrutura**
+
+Modelagem e otimização SQL
+Servidores Linux e Nginx
+Deploy, AWS e monitoramento
+Containers com Docker
+
+</td>
+<td width="33%" valign="top">
+
+**Sistemas e processos**
+
+ERPs e sistemas empresariais
+Diagnóstico de sistemas legados
+Modernização e integração
+Automação de processos
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## Stack
+
+| Camada | Tecnologias |
 | :--- | :--- |
-| **Leitura de sistemas legados** | Mapear código sem documentação, entender fluxo e dependências antes de alterar. |
-| **Agentes por função** | Assistentes especializados por área, integrados às aplicações via API. |
+| **Linguagens** | TypeScript · JavaScript · PHP · Python · C# |
+| **Frontend** | React · Next.js · Vite · Tailwind CSS |
+| **Backend** | Node.js · NestJS · Express · Laravel · Prisma |
+| **Dados** | PostgreSQL · MySQL · MariaDB · Supabase · Redis |
+| **Infraestrutura** | Linux (Arch, Ubuntu) · Docker · Nginx · AWS |
+| **Ferramentas** | Git · GitHub · VS Code · Postman |
+
+<details>
+<summary><b>Visualizar em ícones</b></summary>
+
+<br/>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=ts,js,php,python,cs,html,css&theme=dark" alt="Linguagens" />
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,nodejs,nestjs,express,laravel,prisma&theme=dark" alt="Frontend e backend" />
+<br/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,redis,docker,linux,arch,ubuntu,aws,nginx&theme=dark" alt="Dados e infraestrutura" />
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="Ferramentas" />
+
+</div>
+
+</details>
+
+<br/>
+
+## Inteligência artificial aplicada
+
+Uso de LLMs integrado ao ciclo de desenvolvimento, com escopo definido:
+
+| Frente | Aplicação |
+| :--- | :--- |
+| **Sistemas legados** | Mapeamento de código sem documentação, análise de fluxo e dependências. |
+| **Agentes especializados** | Assistentes por função, integrados às aplicações via API. |
 | **Engenharia de prompts** | Prompts estruturados e versionados junto do código. |
-| **Análise e refatoração** | Revisão, correção e melhoria de código existente. |
-| **Documentação técnica** | Geração e manutenção de docs a partir do próprio repositório. |
-| **Arquitetura e requisitos** | Apoio no planejamento de sistemas e análise de requisitos. |
-| **Automação de processos** | Rotinas empresariais, relatórios e fluxos inteligentes com LLMs. |
+| **Revisão de código** | Análise, correção e refatoração assistidas. |
+| **Documentação** | Geração e manutenção de documentação técnica a partir do repositório. |
+| **Arquitetura** | Apoio na análise de requisitos e no planejamento de sistemas. |
+| **Automação** | Rotinas empresariais e fluxos operacionais com LLMs. |
+
+<div align="center">
+<br/>
+
+<img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude" />
+<img src="https://img.shields.io/badge/OpenAI-000000?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
+<img src="https://img.shields.io/badge/Agentes%20de%20IA-6C63FF?style=flat-square&logo=probot&logoColor=white" alt="Agentes de IA" />
+<img src="https://img.shields.io/badge/Automações%20com%20LLMs-1E293B?style=flat-square&logo=robotframework&logoColor=white" alt="Automações com LLMs" />
+
+</div>
 
 > A IA acelera a escrita. A arquitetura, as decisões e a responsabilidade pelo que vai para produção continuam sendo minhas.
 
-<div align="center">
+<br/>
 
-<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
-<img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-<img src="https://img.shields.io/badge/Agentes%20de%20IA-6C63FF?style=for-the-badge&logo=probot&logoColor=white" alt="Agentes de IA" />
-<img src="https://img.shields.io/badge/Automações%20com%20LLMs-8A2BE2?style=for-the-badge&logo=robotframework&logoColor=white" alt="Automações com LLMs" />
-
-</div>
-
----
-
-## 📊 GitHub
+## Atividade
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=DevMacedojr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&locale=pt-br" alt="Estatísticas do GitHub" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevMacedojr&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&locale=pt-br" alt="Linguagens mais usadas" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=DevMacedojr&show_icons=true&hide_border=true&hide_title=true&theme=transparent&icon_color=6C63FF&text_color=8B95A8&include_all_commits=true&count_private=true&locale=pt-br">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=DevMacedojr&show_icons=true&hide_border=true&hide_title=true&theme=transparent&icon_color=6C63FF&text_color=57606A&include_all_commits=true&count_private=true&locale=pt-br" alt="Estatísticas do GitHub">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DevMacedojr&layout=compact&hide_border=true&hide_title=true&theme=transparent&text_color=8B95A8&langs_count=6&locale=pt-br">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevMacedojr&layout=compact&hide_border=true&hide_title=true&theme=transparent&text_color=57606A&langs_count=6&locale=pt-br" alt="Linguagens mais utilizadas">
+</picture>
 
 <br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=DevMacedojr&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições" />
-
-<br/><br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=DevMacedojr&theme=tokyo-night&hide_border=true&area=true&custom_title=Atividade%20de%20contribuições" alt="Gráfico de atividades" />
+<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=DevMacedojr&theme=react-dark&bg_color=00000000&color=8B95A8&line=6C63FF&point=22D3EE&area=true&area_color=6C63FF&hide_border=true&custom_title=Contribuições" alt="Gráfico de contribuições" />
 
 </div>
 
----
+<br/>
 
-## 🌐 Contato
+## Contato
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ljml200)
-[![Gmail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youloiolatube@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DevMacedojr)
-[![Instagram](https://img.shields.io/badge/Instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/omacedojose2k25)
+<a href="https://www.linkedin.com/in/ljml200"><img src="https://img.shields.io/badge/LinkedIn-0B0E14?style=for-the-badge&logo=linkedin&logoColor=6C63FF" alt="LinkedIn" /></a>
+<a href="mailto:youloiolatube@gmail.com"><img src="https://img.shields.io/badge/E--mail-0B0E14?style=for-the-badge&logo=gmail&logoColor=6C63FF" alt="E-mail" /></a>
+<a href="https://github.com/DevMacedojr"><img src="https://img.shields.io/badge/GitHub-0B0E14?style=for-the-badge&logo=github&logoColor=6C63FF" alt="GitHub" /></a>
+<a href="https://instagram.com/omacedojose2k25"><img src="https://img.shields.io/badge/Instagram-0B0E14?style=for-the-badge&logo=instagram&logoColor=6C63FF" alt="Instagram" /></a>
 
-<br/>
+<br/><br/>
 
-### 💡 Tecnologia não é apenas escrever código.
-
-**É entender problemas reais e transformá-los em soluções inteligentes, escaláveis e funcionais.**
-
-<br/>
-
-<img src="https://img.shields.io/badge/Disponível%20para-Novos%20desafios-6C63FF?style=for-the-badge" alt="Disponível para novos desafios" />
+<sub>Tecnologia não é apenas escrever código — é entender problemas reais e transformá-los em soluções escaláveis e funcionais.</sub>
 
 </div>
