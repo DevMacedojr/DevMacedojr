@@ -8,58 +8,84 @@
 
 <br/>
 
-<a href="#sobre"><b>Sobre</b></a> &nbsp;·&nbsp;
-<a href="#competências"><b>Competências</b></a> &nbsp;·&nbsp;
-<a href="#stack"><b>Stack</b></a> &nbsp;·&nbsp;
-<a href="#inteligência-artificial-aplicada"><b>IA aplicada</b></a> &nbsp;·&nbsp;
-<a href="#contato"><b>Contato</b></a>
+<a href="https://github.com/DevMacedojr">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=6C63FF&center=true&vCenter=true&width=640&lines=%3E+APIs+REST+e+integra%C3%A7%C3%B5es+entre+plataformas;%3E+Modelagem+e+otimiza%C3%A7%C3%A3o+SQL;%3E+Sistemas+legados+%E2%86%92+arquitetura+moderna;%3E+Linux+%C2%B7+Docker+%C2%B7+Nginx+%C2%B7+AWS;%3E+LLMs+aplicados+ao+ciclo+de+engenharia" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/status-online-22C55E?style=flat-square&labelColor=0B0E14" alt="status" />
+<img src="https://img.shields.io/badge/foco-sistemas_em_produção-6C63FF?style=flat-square&labelColor=0B0E14" alt="foco" />
+<img src="https://img.shields.io/badge/local-Paraná,_BR-22D3EE?style=flat-square&labelColor=0B0E14" alt="local" />
+<img src="https://komarev.com/ghpvc/?username=DevMacedojr&label=views&color=6C63FF&style=flat-square&labelColor=0B0E14" alt="views" />
+
+<br/><br/>
+
+<code><a href="#-sobre">./sobre</a></code> &nbsp;
+<code><a href="#-competências">./competências</a></code> &nbsp;
+<code><a href="#-stack">./stack</a></code> &nbsp;
+<code><a href="#-ia-aplicada">./ia</a></code> &nbsp;
+<code><a href="#-contato">./contato</a></code>
 
 </div>
 
 <br/>
 
-## Sobre
+## `$` sobre
 
-Desenvolvedor Full Stack e estudante de Engenharia de Software, com atuação prática na criação, manutenção e evolução de **sistemas empresariais em produção**.
+```ts
+const leonardo = {
+  role:      "Desenvolvedor Full Stack",
+  education: "Engenharia de Software (em andamento)",
+  focus:     ["sistemas empresariais em produção", "APIs REST", "integrações", "legados"],
+  infra:     ["Linux", "Docker", "Nginx", "AWS"],
+  ai:        "LLMs como ferramenta de engenharia — leitura de código, docs e automação",
+  mindset:   "entender a operação → localizar o gargalo → entregar algo que aguenta carga real",
+};
+```
 
-Meu trabalho se concentra na camada onde os sistemas realmente se encontram: APIs REST, integrações entre plataformas, modelagem de dados, sistemas legados e infraestrutura Linux. Uso modelos de linguagem como parte do processo de engenharia — não como atalho, mas como ferramenta de leitura de código, documentação e automação.
-
-O que me interessa não é a stack, é o problema por trás dela: entender a operação, localizar o gargalo e entregar algo que sustente carga real.
+> O que me interessa não é a stack, é o problema por trás dela.
 
 <br/>
 
-## Competências
+## `$` competências
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-**Aplicação**
+**`01` · Aplicação**
 
-Desenvolvimento Full Stack
-APIs REST e integrações
-Dashboards e painéis
-Autenticação, JWT e permissões
-
-</td>
-<td width="33%" valign="top">
-
-**Dados e infraestrutura**
-
-Modelagem e otimização SQL
-Servidores Linux e Nginx
-Deploy, AWS e monitoramento
-Containers com Docker
+```diff
++ Desenvolvimento Full Stack
++ APIs REST e integrações
++ Dashboards e painéis
++ Autenticação, JWT e permissões
+```
 
 </td>
 <td width="33%" valign="top">
 
-**Sistemas e processos**
+**`02` · Dados & infra**
 
-ERPs e sistemas empresariais
-Diagnóstico de sistemas legados
-Modernização e integração
-Automação de processos
+```diff
++ Modelagem e otimização SQL
++ Servidores Linux e Nginx
++ Deploy, AWS e monitoramento
++ Containers com Docker
+```
+
+</td>
+<td width="33%" valign="top">
+
+**`03` · Sistemas & processos**
+
+```diff
++ ERPs e sistemas empresariais
++ Diagnóstico de legados
++ Modernização e integração
++ Automação de processos
+```
 
 </td>
 </tr>
@@ -67,25 +93,11 @@ Automação de processos
 
 <br/>
 
-## Stack
-
-| Camada | Tecnologias |
-| :--- | :--- |
-| **Linguagens** | TypeScript · JavaScript · PHP · Python · C# |
-| **Frontend** | React · Next.js · Vite · Tailwind CSS |
-| **Backend** | Node.js · NestJS · Express · Laravel · Prisma |
-| **Dados** | PostgreSQL · MySQL · MariaDB · Supabase · Redis |
-| **Infraestrutura** | Linux (Arch, Ubuntu) · Docker · Nginx · AWS |
-| **Ferramentas** | Git · GitHub · VS Code · Postman |
-
-<details>
-<summary><b>Visualizar em ícones</b></summary>
-
-<br/>
+## `$` stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,php,python,cs,html,css&theme=dark" alt="Linguagens" />
+<img src="https://skillicons.dev/icons?i=ts,js,php,python,cs&theme=dark&perline=10" alt="Linguagens" />
 <br/>
 <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,nodejs,nestjs,express,laravel,prisma&theme=dark" alt="Frontend e backend" />
 <br/>
@@ -95,26 +107,40 @@ Automação de processos
 
 </div>
 
+<details>
+<summary><code>cat stack.yml</code></summary>
+
+<br/>
+
+```yaml
+linguagens:     [TypeScript, JavaScript, PHP, Python, C#]
+frontend:       [React, Next.js, Vite, Tailwind CSS]
+backend:        [Node.js, NestJS, Express, Laravel, Prisma]
+dados:          [PostgreSQL, MySQL, MariaDB, Supabase, Redis]
+infraestrutura: [Linux (Arch, Ubuntu), Docker, Nginx, AWS]
+ferramentas:    [Git, GitHub, VS Code, Postman]
+```
+
 </details>
 
 <br/>
 
-## Inteligência artificial aplicada
+## `$` ia aplicada
 
 Uso de LLMs integrado ao ciclo de desenvolvimento, com escopo definido:
 
-| Frente | Aplicação |
-| :--- | :--- |
-| **Sistemas legados** | Mapeamento de código sem documentação, análise de fluxo e dependências. |
-| **Agentes especializados** | Assistentes por função, integrados às aplicações via API. |
-| **Engenharia de prompts** | Prompts estruturados e versionados junto do código. |
-| **Revisão de código** | Análise, correção e refatoração assistidas. |
-| **Documentação** | Geração e manutenção de documentação técnica a partir do repositório. |
-| **Arquitetura** | Apoio na análise de requisitos e no planejamento de sistemas. |
-| **Automação** | Rotinas empresariais e fluxos operacionais com LLMs. |
+```bash
+$ llm --pipeline
+  ├── legados        mapeamento de código sem documentação, fluxo e dependências
+  ├── agentes        assistentes por função, integrados às aplicações via API
+  ├── prompts        estruturados e versionados junto do código
+  ├── code-review    análise, correção e refatoração assistidas
+  ├── docs           documentação técnica gerada a partir do repositório
+  ├── arquitetura    apoio em requisitos e planejamento de sistemas
+  └── automação      rotinas empresariais e fluxos operacionais
+```
 
 <div align="center">
-<br/>
 
 <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude" />
 <img src="https://img.shields.io/badge/OpenAI-000000?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
@@ -123,11 +149,12 @@ Uso de LLMs integrado ao ciclo de desenvolvimento, com escopo definido:
 
 </div>
 
+> [!IMPORTANT]
 > A IA acelera a escrita. A arquitetura, as decisões e a responsabilidade pelo que vai para produção continuam sendo minhas.
 
 <br/>
 
-## Atividade
+## `$` atividade
 
 <div align="center">
 
@@ -141,6 +168,13 @@ Uso de LLMs integrado ao ciclo de desenvolvimento, com escopo definido:
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevMacedojr&layout=compact&hide_border=true&hide_title=true&theme=transparent&text_color=57606A&langs_count=6&locale=pt-br" alt="Linguagens mais utilizadas">
 </picture>
 
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=DevMacedojr&hide_border=true&background=00000000&ring=6C63FF&fire=22D3EE&currStreakLabel=6C63FF&sideLabels=8B95A8&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=5C6577&locale=pt_BR">
+  <img height="150" src="https://streak-stats.demolab.com?user=DevMacedojr&hide_border=true&background=00000000&ring=6C63FF&fire=22D3EE&currStreakLabel=6C63FF&sideLabels=57606A&currStreakNum=0B0E14&sideNums=0B0E14&dates=57606A&locale=pt_BR" alt="Sequência de contribuições">
+</picture>
+
 <br/><br/>
 
 <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=DevMacedojr&theme=react-dark&bg_color=00000000&color=8B95A8&line=6C63FF&point=22D3EE&area=true&area_color=6C63FF&hide_border=true&custom_title=Contribuições" alt="Gráfico de contribuições" />
@@ -149,7 +183,7 @@ Uso de LLMs integrado ao ciclo de desenvolvimento, com escopo definido:
 
 <br/>
 
-## Contato
+## `$` contato
 
 <div align="center">
 
@@ -160,6 +194,12 @@ Uso de LLMs integrado ao ciclo de desenvolvimento, com escopo definido:
 
 <br/><br/>
 
-<sub>Tecnologia não é apenas escrever código — é entender problemas reais e transformá-los em soluções escaláveis e funcionais.</sub>
+```console
+$ echo $MOTTO
+Tecnologia não é apenas escrever código — é entender problemas reais
+e transformá-los em soluções escaláveis e funcionais.
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:22D3EE&height=90&section=footer" width="100%" alt="" />
 
 </div>
