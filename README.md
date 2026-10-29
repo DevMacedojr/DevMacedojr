@@ -177,7 +177,10 @@ $ llm --pipeline
 
 <br/><br/>
 
-<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=DevMacedojr&theme=react-dark&bg_color=00000000&color=8B95A8&line=6C63FF&point=22D3EE&area=true&area_color=6C63FF&hide_border=true&custom_title=Contribuições" alt="Gráfico de contribuições" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DevMacedojr/DevMacedojr/output/snake-dark.svg">
+  <img width="92%" src="https://raw.githubusercontent.com/DevMacedojr/DevMacedojr/output/snake.svg" alt="Contribuições">
+</picture>
 
 </div>
 
