@@ -9,7 +9,7 @@
 <br/>
 
 <a href="https://github.com/DevMacedojr">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=6C63FF&center=true&vCenter=true&width=640&lines=%3E+APIs+REST+e+integra%C3%A7%C3%B5es+entre+plataformas;%3E+Modelagem+e+otimiza%C3%A7%C3%A3o+SQL;%3E+Sistemas+legados+%E2%86%92+arquitetura+moderna;%3E+Linux+%C2%B7+Docker+%C2%B7+Nginx+%C2%B7+AWS;%3E+LLMs+aplicados+ao+ciclo+de+engenharia" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=6C63FF&center=true&vCenter=true&width=640&lines=%3E+APIs+REST+e+integra%C3%A7%C3%B5es+entre+plataformas;%3E+Modelagem+e+otimiza%C3%A7%C3%A3o+SQL;%3E+Sistemas+legados+%E2%86%92+arquitetura+moderna;%3E+Linux+%C2%B7+Docker+%C2%B7+Nginx+%C2%B7+AWS;%3E+RAG+%C2%B7+LangChain+%C2%B7+Agentes+de+IA;%3E+Fluxos+de+conhecimento+especialista" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -39,7 +39,7 @@ const leonardo = {
   education: "Engenharia de Software (em andamento)",
   focus:     ["sistemas empresariais em produção", "APIs REST", "integrações", "legados"],
   infra:     ["Linux", "Docker", "Nginx", "AWS"],
-  ai:        "LLMs como ferramenta de engenharia — leitura de código, docs e automação",
+  ai:        ["RAG", "LangChain", "agentes", "expert knowledge", "automação com LLMs"],
   mindset:   "entender a operação → localizar o gargalo → entregar algo que aguenta carga real",
 };
 ```
@@ -118,6 +118,7 @@ frontend:       [React, Next.js, Vite, Tailwind CSS]
 backend:        [Node.js, NestJS, Express, Laravel, Prisma]
 dados:          [PostgreSQL, MySQL, MariaDB, Supabase, Redis]
 infraestrutura: [Linux (Arch, Ubuntu), Docker, Nginx, AWS]
+ia:             [RAG, LangChain, Embeddings, Vector DB, Agentes, Claude, OpenAI]
 ferramentas:    [Git, GitHub, VS Code, Postman]
 ```
 
@@ -127,23 +128,67 @@ ferramentas:    [Git, GitHub, VS Code, Postman]
 
 ## `$` ia aplicada
 
-Uso de LLMs integrado ao ciclo de desenvolvimento, com escopo definido:
+<div align="center">
+
+<img src="./assets/agents-office.svg" width="100%" alt="Escritório isométrico com agentes de IA trabalhando: RAG, LangChain, Retriever, Expert KB e Code Review" />
+
+<sub><code>agents.office</code> — cada agente é uma etapa real dos fluxos que construo</sub>
+
+</div>
+
+<br/>
+
+Uso de LLMs integrado ao ciclo de desenvolvimento, com escopo definido, indo além do prompt: **RAG**, **orquestração com LangChain** e **bases de conhecimento especialista**.
 
 ```bash
 $ llm --pipeline
-  ├── legados        mapeamento de código sem documentação, fluxo e dependências
+  ├── rag            ingestão, chunking, embeddings, busca vetorial e reranking
+  ├── langchain      chains, tools, memória e agentes orquestrados
+  ├── expert-kb      fluxos de conhecimento especialista: regras, validação e rastreabilidade
   ├── agentes        assistentes por função, integrados às aplicações via API
-  ├── prompts        estruturados e versionados junto do código
+  ├── legados        mapeamento de código sem documentação, fluxo e dependências
+  ├── prompts        estruturados, versionados e avaliados junto do código
   ├── code-review    análise, correção e refatoração assistidas
   ├── docs           documentação técnica gerada a partir do repositório
-  ├── arquitetura    apoio em requisitos e planejamento de sistemas
   └── automação      rotinas empresariais e fluxos operacionais
 ```
+
+<details open>
+<summary><code>cat fluxo-rag.mmd</code></summary>
+
+<br/>
+
+```mermaid
+flowchart LR
+    U([Usuário]) --> Q[Query]
+    Q --> E[Embedding]
+    E --> V[(Vector DB)]
+    V --> R[Rerank]
+    KB[(Expert KB<br/>regras e conhecimento)] --> R
+    R --> P[Prompt + contexto]
+    P --> L{{LLM}}
+    L --> T[Tools: SQL / APIs]
+    T --> L
+    L --> A([Resposta com fontes])
+
+    D[Documentos / ERP / Legado] -. ingestão .-> C[Chunking] -. embeddings .-> V
+
+    classDef ai fill:#6C63FF,stroke:#8F88FF,color:#fff
+    classDef data fill:#0F1420,stroke:#22D3EE,color:#E6EDF3
+    class E,R,L,P ai
+    class V,KB,D,C data
+```
+
+</details>
 
 <div align="center">
 
 <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude" />
 <img src="https://img.shields.io/badge/OpenAI-000000?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
+<img src="https://img.shields.io/badge/RAG-6C63FF?style=flat-square&logo=databricks&logoColor=white" alt="RAG" />
+<img src="https://img.shields.io/badge/Vector%20DB-22D3EE?style=flat-square&logo=postgresql&logoColor=0B0E14" alt="Vector DB" />
+<img src="https://img.shields.io/badge/Expert%20Knowledge-EC4899?style=flat-square&logo=bookstack&logoColor=white" alt="Expert Knowledge" />
 <img src="https://img.shields.io/badge/Agentes%20de%20IA-6C63FF?style=flat-square&logo=probot&logoColor=white" alt="Agentes de IA" />
 <img src="https://img.shields.io/badge/Automações%20com%20LLMs-1E293B?style=flat-square&logo=robotframework&logoColor=white" alt="Automações com LLMs" />
 
